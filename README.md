@@ -15,9 +15,11 @@ I've gratuated from Le Wagon bootcamp in March 2023 :mortar_board: and I'm looki
 Love these topics! :yum:
 
 :eyes: Have a look at my pinned projets below:
-- MyAid+: Bootcamp project - Easy Management of your medical prescriptions, appointments and global recovery
+- MyAid+: Bootcamp project - Easy Management of your medical prescriptions, appointments and global recovery 
 - DriveMate: Bootcamp project: Car-sharing solution for those who have a car but cannot drive and those you can drive but don't have a car
 - Rails-Bionic-Reading: Trying to recreate a feature seen online there: https://app.bionic-reading.com/
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tthiberge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
