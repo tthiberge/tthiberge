@@ -14,6 +14,9 @@ I've gratuated from Le Wagon bootcamp in March 2023 :mortar_board: and I'm looki
 ⚡ Fun fact: I'm a certified Yoga Instructor and I have a Nutrition Science certificate from Stanford University!
 Love these topics! :yum:
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tthiberge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **tthiberge/tthiberge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
