@@ -10,6 +10,12 @@ I've gratuated from Le Wagon bootcamp in March 2023 :mortar_board: and I'm looki
 🔭 I’m currently working on personal tech projects: continuing the development of my bootcamp project, recreating amazing features seen online, or helping friends with their webapps / websites!
 
 💬 If you like my work or want to discuss or collaborate, feel free to contact me! 📫
+<p align="center">
+<a href="https://tthiberge.github.io/profile/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/theophile-thiberge/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tthiberge@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+</p>
 
 ⚡ Fun fact: I'm a certified Yoga Instructor and I have a Nutrition Science certificate from Stanford University!
 Love these topics! :yum:
