@@ -19,7 +19,7 @@ Love these topics! :yum:
 - DriveMate: Bootcamp project: Car-sharing solution for those who have a car but cannot drive and those you can drive but don't have a car
 - Rails-Bionic-Reading: Trying to recreate a feature seen online there: https://app.bionic-reading.com/
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
