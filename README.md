@@ -22,7 +22,7 @@ Love these topics! :yum:
 :eyes: Have a look at my pinned projets below:
 - MyAid+: Bootcamp project - Easy Management of your medical prescriptions, appointments and global recovery 
 - DriveMate: Bootcamp project: Car-sharing solution for those who have a car but cannot drive and those you can drive but don't have a car
-- Rails-Bionic-Reading: Trying to recreate a feature seen online there: https://app.bionic-reading.com/
+- Rails-Bionic-Reading: Trying to recreate a feature seen online there: https://app.bionic-reading.com/ 
 
 ### 🛠 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
