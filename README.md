@@ -15,7 +15,7 @@ I've gratuated from Le Wagon bootcamp in March 2023 :mortar_board: and I'm looki
 <a href="https://www.linkedin.com/in/theophile-thiberge/"><img src="https://img.shields.io/badge/-Theophile%20Thiberge-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tthiberge@gmail.com"><img src="https://img.shields.io/badge/-tthiberge@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
+ 
 ⚡ Fun fact: I'm a certified Yoga Instructor and I have a Nutrition Science certificate from Stanford University!
 Love these topics! :yum:
 
