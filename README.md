@@ -17,7 +17,7 @@ I've gratuated from Le Wagon bootcamp in March 2023 :mortar_board: and I'm looki
 </p>
  
 ⚡ Fun fact: I'm a certified Yoga Instructor and I have a Nutrition Science certificate from Stanford University!
-Love these topics! :yum:
+Love these topics! :yum:  
 
 :eyes: Have a look at my pinned projets below: 
 - MyAid+: Bootcamp project - Easy Management of your medical prescriptions, appointments and global recovery, 
