@@ -6,7 +6,7 @@ I've gratuated from Le Wagon bootcamp in March 2023 :mortar_board: and I'm looki
 - people-driven :busts_in_silhouette:  
 - ecology-enthusiastic 🌱            
 - tech-lover :computer:             
-
+ 
 🔭 I’m currently working on personal tech projects: continuing the development of my bootcamp project, recreating amazing features seen online, or helping friends with their webapps / websites! 
 
 💬 If you like my work or want to discuss or collaborate, feel free to contact me! 📫
