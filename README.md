@@ -1,11 +1,11 @@
-### Hi there 👋  
+P0### Hi there 👋  
  
 I'm Théo and after 5 years working in Paris, FR as a Real-estate & Construction consultant, I'm following a career change in tech in order to serve firms sharing my values and committment! ✨           
       
 I've gratuated from Le Wagon bootcamp in March 2023 :mortar_board: and I'm looking forward to working in an amazing company that is:
 - people-driven :busts_in_silhouette:  
 - ecology-enthusiastic 🌱             
-- tech-lover :computer:              
+- tech-lover :computer:               
  
 🔭 I’m currently working on personal tech projects: continuing the development of my bootcamp project, recreating amazing features seen online, or helping friends with their webapps / websites! 
 
