@@ -2,7 +2,7 @@
  
 I'm Théo and after 5 years working in Paris, FR as a Real-estate & Construction consultant, I'm following a career change in tech in order to serve firms sharing my values and committment! ✨  
 
-I'm active in web development, but rather on GITLAB where my professional team works !
+I'm active in web development, but rather on GITLAB where my professional team works ! 
        
 I've gratuated from Le Wagon bootcamp in March 2023 :mortar_board: and I'm looking forward to working in an amazing company that is: 
 - people-driven :busts_in_silhouette:  
